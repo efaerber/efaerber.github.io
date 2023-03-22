@@ -1,2 +1,2 @@
-# efaerber-efaerber.github.io
+efaerber.github.io
 Prime Application
