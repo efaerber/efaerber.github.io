@@ -1,0 +1,84 @@
+.everything {
+  margin-top: 20px;
+  margin-left: 170px;
+  margin-right: 170px;
+  padding: 10px 150px 10px 150px; 
+}
+
+.name {
+  float: left;
+  font-size: 43px;
+  text-align: left;
+  text-indent: 5px;
+  border-left-style: solid;
+  border-width: 8px;
+  border-color: purple;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.contact-info {
+  float: right;
+  text-align: right;
+  text-indent: 5px;
+  border-top-style: solid;
+  border-width: 8px;
+  font-size: 26px;
+  border-color: red;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.professional-experience {
+  margin-top: 10px;
+  border-right-style: solid;
+  border-width: 8px;
+  border-color: gold;
+  clear: left;
+  z-index: 1;
+ }
+ 
+ 
+ .education {
+  color: purple;
+  margin-top: 10px;
+  color: purple
+ }
+ 
+ 
+ .skills {
+  color: yellow
+  margin-top: 10px;
+  border-top-style: solid;
+  border-width: 8px;
+  border-color: yellow;
+}
+
+
+.bold {
+font-weight: bold;
+}
+
+.italics {
+    font-style:italic
+}
+
+.red
+{
+  color:red;
+}
+
+.purple
+{
+  color: purple
+}
+
+.yellow
+{
+  color:#ffcc00;
+}
